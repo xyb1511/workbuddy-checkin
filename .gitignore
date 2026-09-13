@@ -1,0 +1,11 @@
+# 含登录态，禁止提交
+config.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
